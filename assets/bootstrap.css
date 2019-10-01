@@ -1,0 +1,33 @@
+#container-fluid{}
+
+#navbar-text{
+    color: cornflowerblue;
+}
+
+#offset-lg{}
+
+#na-item{}
+
+.nav-links{}
+                   
+.able-header{}
+
+#thead-dark{
+    color: aqua
+}
+
+.table-album {
+    border: 1px solid grey;
+    margin-right: 10px;
+    float: left;
+  }
+  #card {
+    float: left;
+    margin-right: 5px;
+  }
+
+#card-body{}
+
+#card-title{}
+
+#card-text{}                                      

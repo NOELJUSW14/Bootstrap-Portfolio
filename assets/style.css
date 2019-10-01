@@ -1,0 +1,25 @@
+body{
+    background-color: black
+}
+
+
+            
+.table{
+    background-color: cornflowerblue
+}
+                                   
+table{
+    position: center;
+}
+
+#aside{
+    float: right;
+} 
+
+.aside{}
+       
+#footer{}
+
+.footer{}
+
+footer{}
